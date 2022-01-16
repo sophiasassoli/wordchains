@@ -23,11 +23,11 @@ COMPILING & RUNNING THE PROGRAM
 navigate to the directory that contains the file.
 * make sure provided "wordchains.txt" file is in the same directory.
 
-command to compile the program:
-gcc -o wordchains wordchains.c 
+command to compile the program: \n
+gcc -o wordchains wordchains.c \n
 
-command to run the program:
-./wordchains int1 int2
+command to run the program: \n
+./wordchains int1 int2 \n
 
-int1 and int2 should be two integers between 0 and 499
+int1 and int2 should be two integers between 0 and 499 \n
 int1 represents the source word, int2 represents the destination word
